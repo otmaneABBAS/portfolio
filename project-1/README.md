@@ -30,5 +30,6 @@ Visualisations : !Tableau de bord
 Conclusion
 Résumé: Synthèse des principales conclusions tirées de l'analyse.
 Impact : Comment ces analyses peuvent aider les consommateurs à économiser sur leurs achats de carburant. “Ce projet est un excellent cas pratique pour une entreprise de transport ou de logistique possédant des camions. Il permet d’optimiser les itinéraires en dirigeant les camions vers les stations les moins chères, réduisant ainsi les coûts de carburant, ce qui est crucial étant donné la consommation élevée des camions.”
-Lien vers le Projet
+
+Lien vers le Projet:
 GitHub
